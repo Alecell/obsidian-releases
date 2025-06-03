@@ -17346,10 +17346,17 @@
     "repo": "maigamo/daily-task-auto-generator"
 },
 {
+    "id": "yaml-table",
+    "name": "YAML Table",
+    "author": "dainakai",
+    "description": "Transform YAML code blocks into HTML tables for better visualization",
+    "repo": "dainakai/obsidian-yaml-table"
+},
+  {
       "id": "auto-replacer",
       "name": "Auto Replacer",
       "author": "Alecell",
       "description": "A live text replacement plugin that applies automatic formatting, corrections, or custom replacements in real-time.",
       "repo": "Alecell/auto-replacer"
-}
+  }
 ]
